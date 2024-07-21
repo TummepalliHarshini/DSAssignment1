@@ -1,7 +1,7 @@
 #include<stdio.h> 
 #include<conio.h> 
 #include<stdlib.h>
-void main() 
+int main() 
 {
 int n,a[10],b[10],t[10],w[10],g[10],i,m; 
 float att=0,awt=0;
